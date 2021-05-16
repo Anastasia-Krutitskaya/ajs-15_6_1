@@ -10,4 +10,3 @@ test('orderByProps', () => {
     { key: 'health', value: 10 },
   ]);
 });
-
